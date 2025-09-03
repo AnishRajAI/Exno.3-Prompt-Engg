@@ -1,4 +1,4 @@
-\# Experiment 3: Designing a Climate Change Awareness Campaign
+# Experiment 3: Designing a Climate Change Awareness Campaign
 ## Aim
 To design a comprehensive and engaging climate change awareness campaign that:
 . Educates the public about local and global climate issues.
