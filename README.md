@@ -1,126 +1,97 @@
-# Experiment 3: Designing a Climate Change Awareness Campaign
-## Aim
-To design a comprehensive and engaging climate change awareness campaign that:
-. Educates the public about local and global climate issues.
-. Inspires individual and collective action.
-. Encourages sustainable behaviors across communities.
-This experiment uses a scenario-based approach and preceding question prompting to structure the campaign plan, ensuring it is robust, scalable, and adaptable.
+# Ex.No.3 – Scenario-Based Report Development Utilizing Diverse Prompting Techniques  
+
+### DATE:  25-09-2025
+### REGISTER NUMBER:  212222230010
 
 ---
 
-## Algorithm
-###  Step 1: Define Scope and Objectives
-1.1 Goal → Nationwide awareness campaign on climate change.
-
-1.2 Audience → Young adults, families, and small business owners.
-
-1.3 Core Focus → Awareness, behavioral change, policy advocacy. 
-### Step 2: Campaign Design
-2.1 Tailor core message for different audiences.
-
-2.2 Select suitable communication platforms.
-
-2.3 Use visuals, stories, and calls-to-action.
-### Step 3: Implement Prompt Patterns
-3.1 Apply preceding question prompting for campaign planning.
-
-3.2 Create audience-specific messaging strategies.
-
-3.3 Align campaign tone: urgency + hope.
-### Step 4: Review & Finalize
-4.1 Ensure clarity, inclusiveness, and cultural sensitivity.
-
-4.2 Verify achievable goals (awareness ↑ 50%, sustainable behaviors ↑ 20%).
-
-4.3 Prepare diagrams and infographics.
+### **Aim:**  
+To write prompts for the following prompt types and evaluate them using any one use case:  
+1. Straightforward Prompts  
+2. Tabular Format Prompting  
+3. Preceding Question Prompting  
+4. Missing Word Prompting  
 
 ---
 
-## Introduction
-Climate change is one of the most urgent global challenges, impacting health, economy, and ecosystems. While policies and technology play a role, public awareness and behavioral change are equally critical.
-
-This experiment develops a climate change awareness campaign that resonates with multiple audiences by:
-
-- Using scenario-based campaign planning.
-
-- Applying prompt engineering (preceding question prompting).
-
-- Delivering targeted yet unified messaging for impact.
-
-The campaign aims not only to inform but to empower communities toward collective responsibility and sustainable living.
+### **Explanation:**  
+**Use Case Chosen (from Unit 5):**General Knowledge and Science Education**  
+General Knowledge and Science Education refers to the broad understanding and awareness of facts, concepts, and principles across various disciplines, including science, geography, technology, environment, and current affairs, aimed at developing informed, critical-thinking individuals.
+We will apply all four prompt types to this use case.  
 
 ---
 
-## Output
-### Step 1: UCore Campaign Message
+### **Procedure & Example Prompts**
 
-“🌍 Climate change is real, local, and solvable. Together, we can protect our planet for future generations.”
+#### **1. Straightforward Prompts**  
+Direct and simple queries to get specific answers.  
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dd49f9c3-fe44-42cf-acde-8d24a1091f22" />
+- **Prompt:** `Define photosynthesis in one sentence..`  
+  **Response:**  
+  Photosynthesis is the process by which green plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen.
 
+- **Prompt:** `List three advantages of electric vehicles.`  
+  **Response:**  
+ 1. Lower emissions – Electric vehicles produce zero tailpipe emissions, reducing air pollution and greenhouse gases.
+ 2. Lower operating costs – Electricity is generally cheaper than gasoline, and EVs have fewer moving parts, leading to lower maintenance costs.
+ 3. Energy efficiency – EVs convert a higher percentage of energy from the grid to power at the wheels compared to internal combustion engine vehicles.
+---
 
+#### **2. Tabular Format Prompting**  
+Information is presented in a structured table format.  
 
-
-### Step 2: Audience-Specific Messaging
-### 👩‍🎓 Young Adults (18–25):
--  Content Strategy: Short-form videos (TikTok, Instagram Reels, YouTube Shorts).
--  Message Tone: Relatable, empowering, hopeful.
--  Call-to-Action: “Share this fact,” “Join eco-challenges,” “Be a climate ambassador.”
+- **Prompt:**  
+  ``  Compare and contrast AC and DC current in a table.``
   
-<img width="1280" height="656" alt="image" src="https://github.com/user-attachments/assets/af545e6d-6715-4ada-8f61-307bd833a435" />
+  **Response:**
+   <img width="996" height="257" alt="Screenshot 2025-09-25 085003" src="https://github.com/user-attachments/assets/bea2fe15-a0d8-495d-9e52-131fd37be38d" />
 
-### 👨‍👩‍👧 Families (30–50):
--  Content Strategy: Animated explainers, DIY eco-guides, local events.
-- Message Tone: Family safety, financial savings, children’s future.
--  Call-to-Action: “Save energy at home,” “Teach kids eco-habits,” “Join community events.”
-
-<img width="858" height="691" alt="image" src="https://github.com/user-attachments/assets/806c49f7-4fc5-4d8e-bf0d-4987bb2a8a97" />
-
-### 🏢 Small Business Owners:
-- Content Strategy: Webinars, LinkedIn case studies, workshops.
-- Message Tone: Efficiency, savings, reputation.
-- Call-to-Action: “Go green to save costs,” “Adopt eco-certifications,” “Promote your green brand.”
-
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/375f1ec1-047d-4201-9f8b-312396e708ea" />
+- **Prompt:**  
+  `` Provide a table listing five programming languages, their paradigms, and one use case each.``
+  
+  **Response:**
+     <img width="1043" height="347" alt="Screenshot 2025-09-25 085452" src="https://github.com/user-attachments/assets/caae9f0e-64c9-47b9-981e-21cc223512d7" />
 
 ---
 
-## Comparison Table: Messaging by Audience
+#### **3. Preceding Question Prompting**  
+A question followed by a deeper explanation or reasoning.  
 
-<img width="1861" height="502" alt="image" src="https://github.com/user-attachments/assets/41d117cd-f8dd-4d97-a1ec-6b151d98c6bb" />
+- **Prompt:**  
+  `Why is climate change a global concern? Explain how greenhouse gases contribute to global warming.`  
 
----
+**Response:**  
+Climate change is a global concern because it affects the entire planet, leading to rising sea levels, extreme weather events, food and water insecurity, ecosystem disruption, and economic and health impacts that cross national borders. No country is immune, and global cooperation is essential to mitigate its effects and adapt to its consequences.
 
-## 🧠 Mind Map of Climate Change Campaign
-### Core Goal → Educate | Inspire | Empower
+- **Prompt:**  
+  `How do vaccines work? Describe the process of immunization in simple terms.`  
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f12a3c06-063d-4f55-85ee-e5fd2639032c" />
-
--  Young Adults → Videos, Challenges
--  Families → DIY Guides, Local Events
--  Businesses → Webinars, Case Studies
-Outcomes →
-Awareness ↑ 50%
-Sustainable Behaviors ↑ 20%
-Policy Advocacy ↑ Community Support
-Definition: A decentralized, immutable, and distributed digital ledger.
-
-<img width="1294" height="348" alt="image" src="https://github.com/user-attachments/assets/3c4e8c8c-f4f0-418d-9fa3-c824076e202c" />
+**Response:** 
+1. A vaccine is given, usually as a shot. It contains a harmless part of a virus or bacteria (like a protein or a weakened/killed version).
+2. Your immune system sees it as a threat and responds by making antibodies—proteins that fight the germ.
+3. It also creates memory cells that "remember" how to fight that germ in the future.
 
 ---
 
-##### Future Potential
-The campaign can scale into:
-- Policy advocacy movements.
-- Youth climate clubs at schools and colleges.
-- Green business certifications to attract eco-conscious customers.
+#### **4. Missing Word Prompting**  
+Fill-in-the-blank style to encourage active recall.  
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e1cddac0-a637-4622-94c0-f29b58fe107e" />
+- **Prompt:**  
+  `The capital of France is ____.`
+    
+  **Response:** **Paris**  
 
---- 
-## Result
-The experiment successfully produced:
-- A scenario-based climate awareness campaign.
-- Audience-specific strategies with messaging, visuals, and calls-to-action.
-- Supporting material (Tables, Mind Maps, Visuals).
-This demonstrates how prompt engineering can be applied to real-world communication challenges to design impactful awareness campaigns.
+- **Prompt:**  
+  `In photosynthesis, plants absorb sunlight to produce ____.`
+   
+  **Response:** **glucose (a type of sugar) and oxygen.**  
+
+---
+
+### **Conclusion:**  
+Using the four prompt types, we explored how to generate diverse responses for the General Knowledge and Science Education . Each method provided a unique way to structure the query, improving clarity and depth of the generated responses.  
+
+---
+
+### **Result:**  
+Thus, the prompts were executed successfully, and the report for the chosen use case was generated.  
